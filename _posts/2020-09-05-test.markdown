@@ -1,2 +1,6 @@
 testing
 testing
+
+***Does LaTeX work??***
+$x=3$
+$$x=3$$
