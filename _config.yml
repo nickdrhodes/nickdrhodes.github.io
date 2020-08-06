@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Currently just for receiving mail
+title: Domain owned by Nick Rhodes 
+author: Nick Rhodes
 email: nick@nickrhodes.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Currently this domain receives email. Will be further set up in future.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nickrhodes.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rick_nhodes_
 github_username:  nickdrhodes
 
